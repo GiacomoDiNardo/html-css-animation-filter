@@ -133,12 +133,12 @@
 }
 
 .ex-12-button:hover .ex-12-top-white {
-    animation-name: white-top-position;
+    animation-name: white-top-position-12;
     animation-duration: 2.5s;
     animation-timing-function: linear;
 }
 
-@keyframes white-top-position {
+@keyframes white-top-position-12 {
     0% {
         left: 10%;
     }
@@ -153,12 +153,12 @@
 }
 
 .ex-12-button:hover .ex-12-bottom-white {
-    animation-name: white-bottom-position;
+    animation-name: white-bottom-position-12;
     animation-duration: 2.5s;
     animation-timing-function: linear;
 }
 
-@keyframes white-bottom-position {
+@keyframes white-bottom-position-12 {
     0% {
         right: 20%;
     }
@@ -173,12 +173,12 @@
 }
 
 .ex-13-button:hover .ex-13-top-white {
-    animation-name: white-top-position;
+    animation-name: white-top-position-13;
     animation-duration: 1.5s;
     animation-timing-function: linear;
 }
 
-@keyframes white-top-position {
+@keyframes white-top-position-13 {
     0% {
         left: 10%;
         top: -10px;
@@ -211,12 +211,12 @@
 }
 
 .ex-13-button:hover .ex-13-bottom-white {
-    animation-name: white-bottom-position;
+    animation-name: white-bottom-position-13;
     animation-duration: 1.5s;
     animation-timing-function: linear;
 }
 
-@keyframes white-bottom-position {
+@keyframes white-bottom-position-13 {
     0% {
         right: 20%;
         bottom: -10px;
